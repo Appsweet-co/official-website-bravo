@@ -1,8 +1,8 @@
 {
-  "name": "Appsweet.co",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "appsweet-official-website",
+  "version": "2.0.0",
+  "author": "Appsweet",
+  "homepage": "https://appsweet.co",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -64,5 +64,5 @@
     "ts-node": "~8.3.0",
     "typescript": "~4.7.3"
   },
-  "description": "An Ionic project"
+  "description": "Official website for Appsweet.co"
 }
